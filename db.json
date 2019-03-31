@@ -1,0 +1,14 @@
+{
+  "poolgames": [
+    {
+      "tourneyId": 1,
+      "homeTeam": 1,
+      "awayTeam": 2,
+      "startTime": "9:00",
+      "endTime": "10:15",
+      "fieldNum": 13,
+      "homeScore": 8,
+      "awayScore": 13
+    }
+  ]
+}
