@@ -101,226 +101,106 @@
       "awayScore": 12
     }
   ],
-  "tourneyTeam": [
+  "poolTeams": [
     {
-      "id": 1,
-      "name": "Binghampton",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
+      "poolName": "Q",
+      "teamId": 1
     },
     {
-      "id": 2,
-      "name": "Canisius",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": false,
-      "signedWaiver": false,
-      "needW9": true,
-      "needInvoice": true
+      "poolName": "Q",
+      "teamId": 2
     },
     {
-      "id": 3,
-      "name": "Hamilton Y",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": false,
-      "signedWaiver": false,
-      "needW9": true,
-      "needInvoice": true
+      "poolName": "Q",
+      "teamId": 3
     },
     {
-      "id": 4,
-      "name": "Oberlin X",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
+      "poolName": "Q",
+      "teamId": 4
     },
     {
-      "id": 5,
-      "name": "Colgate",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
+      "poolName": "Q",
+      "teamId": 5
     },
     {
-      "id": 6,
-      "name": "Cornell X",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
+      "poolName": "R",
+      "teamId": 6
     },
     {
-      "id": 7,
-      "name": "Ithaca",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": false,
-      "signedWaiver": false,
-      "needW9": true,
-      "needInvoice": true
+      "poolName": "R",
+      "teamId": 7
     },
     {
-      "id": 8,
-      "name": "RIT",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": false,
-      "signedWaiver": false,
-      "needW9": true,
-      "needInvoice": true
+      "poolName": "R",
+      "teamId": 8
     },
     {
-      "id": 9,
-      "name": "Lorax",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
+      "poolName": "R",
+      "teamId": 9
     },
     {
-      "id": 10,
-      "name": "Lorax Alumni",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
+      "poolName": "R",
+      "teamId": 10
     },
     {
-      "id": 11,
-      "name": "Geneseo",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
+      "poolName": "S",
+      "teamId": 11
     },
     {
-      "id": 12,
-      "name": "Hamilton X",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": false,
-      "signedWaiver": false,
-      "needW9": true,
-      "needInvoice": true
+      "poolName": "S",
+      "teamId": 12
     },
     {
-      "id": 13,
-      "name": "Cortland",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": false,
-      "signedWaiver": false,
-      "needW9": true,
-      "needInvoice": true
+      "poolName": "S",
+      "teamId": 13
     },
     {
-      "id": 14,
-      "name": "Oneonta",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
+      "poolName": "S",
+      "teamId": 14
     },
     {
-      "id": 15,
-      "name": "Cornell Y",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
+      "poolName": "S",
+      "teamId": 15
     },
     {
-      "id": 16,
-      "name": "U of R",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
+      "poolName": "T",
+      "teamId": 16
     },
     {
-      "id": 17,
-      "name": "Oberlin Y",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": false,
-      "signedWaiver": false,
-      "needW9": true,
-      "needInvoice": true
+      "poolName": "T",
+      "teamId": 17
     },
     {
-      "id": 18,
-      "name": "Brockport",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": false,
-      "signedWaiver": false,
-      "needW9": true,
-      "needInvoice": true
+      "poolName": "T",
+      "teamId": 18
     },
     {
-      "id": 19,
-      "name": "Carnegie Melon",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
+      "poolName": "T",
+      "teamId": 19
     },
     {
-      "id": 20,
-      "name": "Fredonia",
       "tourneyId": 1,
-      "img": null,
-      "seed": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
+      "poolName": "T",
+      "teamId": 20
     }
   ]
 }
