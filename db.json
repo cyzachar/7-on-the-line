@@ -101,6 +101,19 @@
       "awayScore": 12
     }
   ],
+  "tourneyTeam": [
+    {
+      "id": 1,
+      "name": "Binghampton",
+      "tourneyId": 1,
+      "img": null,
+      "seed": null,
+      "paidBid": true,
+      "signedWaiver": true,
+      "needW9": false,
+      "needInvoice": false
+    }
+  ],
   "poolTeams": [
     {
       "tourneyId": 1,
