@@ -11,15 +11,6 @@
       "password": "mp123"
     }
   ],
-  "teamContact": [
-    {
-      "teamId": 8,
-      "contactName": "Hannah Jones",
-      "contactEmail": "hjones@gmail.com",
-      "contactPhone": "111-111-1111",
-      "tourneyId": 1
-    }
-  ],
   "userFollowedTourneys": [
     {
       "userId": 1,
@@ -42,26 +33,6 @@
     {
       "userId": 1,
       "tourneyId": 2
-    }
-  ],
-  "gameGenParams": [
-    {
-      "tourneyId": 1,
-      "typeOfPlay": "p",
-      "date": "9/30/17",
-      "startTime": "9:00",
-      "gameLen": 75,
-      "breakLen": 15,
-      "pointsToWin": 13
-    },
-    {
-      "tourneyId": 1,
-      "typeOfPlay": "b",
-      "date": "10/1/17",
-      "startTime": "9:00",
-      "gameLen": 90,
-      "breakLen": 15,
-      "pointsToWin": 15
     }
   ],
   "poolGames": [
@@ -266,75 +237,6 @@
       "signedWaiver": true,
       "needW9": false,
       "needInvoice": false
-    }
-  ],
-  "poolTeams": [
-    {
-      "tourneyId": 1,
-      "poolName": "Q",
-      "teamId": 1
-    },
-    {
-      "tourneyId": 1,
-      "poolName": "Q",
-      "teamId": 2
-    },
-    {
-      "tourneyId": 1,
-      "poolName": "Q",
-      "teamId": 3
-    },
-    {
-      "tourneyId": 1,
-      "poolName": "Q",
-      "teamId": 4
-    },
-    {
-      "tourneyId": 1,
-      "poolName": "Q",
-      "teamId": 5
-    }
-  ],
-  "tournaments": [
-    {
-      "id": 1,
-      "name": "TSGMUT 17",
-      "address": "2 Scott Ave Youngstown, NY 14174",
-      "state": "NY",
-      "map": null,
-      "division": "college",
-      "startDate": "9/30/17",
-      "endDate": "10/1/17"
-    },
-    {
-      "id": 2,
-      "name": "Danse Macabre 17",
-      "address": "1 Lomb Memorial Dr, Rochester, NY 14623",
-      "state": "NY",
-      "map": null,
-      "division": "college",
-      "startDate": "10/27/17",
-      "endDate": "10/28/17"
-    },
-    {
-      "id": 3,
-      "name": "Poultry Days",
-      "address": "800 Woodland Drive Versailles OH 45380",
-      "state": "OH",
-      "map": null,
-      "division": "club",
-      "startDate": "6/15/19",
-      "endDate": "6/16/19"
-    },
-    {
-      "id": 4,
-      "name": "Lei Out",
-      "address": "Huntington Beach, CA",
-      "state": "CA",
-      "map": null,
-      "division": "beach",
-      "startDate": "1/19/19",
-      "endDate": "1/20/19"
     }
   ]
 }
