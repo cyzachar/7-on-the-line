@@ -52,7 +52,7 @@
       "startTime": "9:00",
       "gameLen": 75,
       "breakLen": 15,
-      "pointsToWin": 13,
+      "pointsToWin": 13
     },
     {
       "tourneyId": 1,
@@ -61,8 +61,8 @@
       "startTime": "9:00",
       "gameLen": 90,
       "breakLen": 15,
-      "pointsToWin": 15,
-    },
+      "pointsToWin": 15
+    }
   ],
   "tourneyTeam": [
     {
