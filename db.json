@@ -1,4 +1,69 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "username": "hjones",
+      "password": "hj123"
+    },
+    {
+      "id": 2,
+      "username": "mpierce",
+      "password": "mp123"
+    }
+  ],
+  "teamContact": [
+    {
+      "teamId": 8,
+      "contactName": "Hannah Jones",
+      "contactEmail": "hjones@gmail.com",
+      "contactPhone": "111-111-1111",
+      "tourneyId": 1
+    }
+  ],
+  "userFollowedTourneys": [
+    {
+      "userId": 1,
+      "tourneyId": 1,
+      "teamFollowId": 8,
+      "isTeamManager": true
+    },
+    {
+      "userId": 1,
+      "tourneyId": 1,
+      "teamFollowId": 20,
+      "isTeamManager": false
+    }
+  ],
+  "userManagedTourneys": [
+    {
+      "userId": 2,
+      "tourneyId": 1
+    },
+    {
+      "userId": 1,
+      "tourneyId": 2
+    }
+  ],
+  "gameGenParams": [
+    {
+      "tourneyId": 1,
+      "typeOfPlay": "p",
+      "date": "9/30/17",
+      "startTime": "9:00",
+      "gameLen": 75,
+      "breakLen": 15,
+      "pointsToWin": 13,
+    },
+    {
+      "tourneyId": 1,
+      "typeOfPlay": "b",
+      "date": "10/1/17",
+      "startTime": "9:00",
+      "gameLen": 90,
+      "breakLen": 15,
+      "pointsToWin": 15,
+    },
+  ],
   "poolGames": [
     {
       "tourneyId": 1,
@@ -149,6 +214,456 @@
       "fieldNum": 0,
       "homeScore": 0,
       "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 7,
+      "awayTeam": 8,
+      "startTime": "9:00",
+      "endTime": "10:15",
+      "fieldNum": 13,
+      "homeScore": 8,
+      "awayScore": 13
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 9,
+      "awayTeam": 10,
+      "startTime": "9:00",
+      "endTime": "10:15",
+      "fieldNum": 14,
+      "homeScore": 9,
+      "awayScore": 10
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 6,
+      "awayTeam": -1,
+      "startTime": "9:00",
+      "endTime": "10:15",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 6,
+      "awayTeam": 10,
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "fieldNum": 13,
+      "homeScore": 3,
+      "awayScore": 13
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 8,
+      "awayTeam": 9,
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "fieldNum": 14,
+      "homeScore": 6,
+      "awayScore": 8
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 7,
+      "awayTeam": -1,
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 6,
+      "awayTeam": 9,
+      "startTime": "12:00",
+      "endTime": "13:15",
+      "fieldNum": 13,
+      "homeScore": 11,
+      "awayScore": 13
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 7,
+      "awayTeam": 10,
+      "startTime": "12:00",
+      "endTime": "13:15",
+      "fieldNum": 14,
+      "homeScore": 13,
+      "awayScore": 10
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 8,
+      "awayTeam": -1,
+      "startTime": "12:00",
+      "endTime": "13:15",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 6,
+      "awayTeam": 7,
+      "startTime": "13:30",
+      "endTime": "14:45",
+      "fieldNum": 13,
+      "homeScore": 9,
+      "awayScore": 6
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 8,
+      "awayTeam": 10,
+      "startTime": "13:30",
+      "endTime": "14:45",
+      "fieldNum": 14,
+      "homeScore": 13,
+      "awayScore": 7
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 9,
+      "awayTeam": -1,
+      "startTime": "13:30",
+      "endTime": "14:45",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 6,
+      "awayTeam": 8,
+      "startTime": "15:00",
+      "endTime": "16:15",
+      "fieldNum": 13,
+      "homeScore": 9,
+      "awayScore": 13
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 7,
+      "awayTeam": 9,
+      "startTime": "15:00",
+      "endTime": "16:15",
+      "fieldNum": 14,
+      "homeScore": 13,
+      "awayScore": 12
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 10,
+      "awayTeam": -1,
+      "startTime": "15:00",
+      "endTime": "16:15",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 12,
+      "awayTeam": 13,
+      "startTime": "9:00",
+      "endTime": "10:15",
+      "fieldNum": 13,
+      "homeScore": 8,
+      "awayScore": 13
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 14,
+      "awayTeam": 15,
+      "startTime": "9:00",
+      "endTime": "10:15",
+      "fieldNum": 14,
+      "homeScore": 9,
+      "awayScore": 10
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 11,
+      "awayTeam": -1,
+      "startTime": "9:00",
+      "endTime": "10:15",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 11,
+      "awayTeam": 15,
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "fieldNum": 13,
+      "homeScore": 3,
+      "awayScore": 13
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 13,
+      "awayTeam": 14,
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "fieldNum": 14,
+      "homeScore": 6,
+      "awayScore": 8
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 12,
+      "awayTeam": -1,
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 11,
+      "awayTeam": 14,
+      "startTime": "12:00",
+      "endTime": "13:15",
+      "fieldNum": 13,
+      "homeScore": 11,
+      "awayScore": 13
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 12,
+      "awayTeam": 15,
+      "startTime": "12:00",
+      "endTime": "13:15",
+      "fieldNum": 14,
+      "homeScore": 13,
+      "awayScore": 10
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 13,
+      "awayTeam": -1,
+      "startTime": "12:00",
+      "endTime": "13:15",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 11,
+      "awayTeam": 12,
+      "startTime": "13:30",
+      "endTime": "14:45",
+      "fieldNum": 13,
+      "homeScore": 9,
+      "awayScore": 6
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 13,
+      "awayTeam": 15,
+      "startTime": "13:30",
+      "endTime": "14:45",
+      "fieldNum": 14,
+      "homeScore": 13,
+      "awayScore": 7
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 14,
+      "awayTeam": -1,
+      "startTime": "13:30",
+      "endTime": "14:45",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 11,
+      "awayTeam": 13,
+      "startTime": "15:00",
+      "endTime": "16:15",
+      "fieldNum": 13,
+      "homeScore": 9,
+      "awayScore": 13
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 12,
+      "awayTeam": 14,
+      "startTime": "15:00",
+      "endTime": "16:15",
+      "fieldNum": 14,
+      "homeScore": 13,
+      "awayScore": 12
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 15,
+      "awayTeam": -1,
+      "startTime": "15:00",
+      "endTime": "16:15",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 17,
+      "awayTeam": 18,
+      "startTime": "9:00",
+      "endTime": "10:15",
+      "fieldNum": 13,
+      "homeScore": 8,
+      "awayScore": 13
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 19,
+      "awayTeam": 20,
+      "startTime": "9:00",
+      "endTime": "10:15",
+      "fieldNum": 14,
+      "homeScore": 9,
+      "awayScore": 10
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 16,
+      "awayTeam": -1,
+      "startTime": "9:00",
+      "endTime": "10:15",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 16,
+      "awayTeam": 20,
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "fieldNum": 13,
+      "homeScore": 3,
+      "awayScore": 13
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 18,
+      "awayTeam": 19,
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "fieldNum": 14,
+      "homeScore": 6,
+      "awayScore": 8
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 17,
+      "awayTeam": -1,
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 16,
+      "awayTeam": 19,
+      "startTime": "12:00",
+      "endTime": "13:15",
+      "fieldNum": 13,
+      "homeScore": 11,
+      "awayScore": 13
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 17,
+      "awayTeam": 20,
+      "startTime": "12:00",
+      "endTime": "13:15",
+      "fieldNum": 14,
+      "homeScore": 13,
+      "awayScore": 10
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 18,
+      "awayTeam": -1,
+      "startTime": "12:00",
+      "endTime": "13:15",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 16,
+      "awayTeam": 17,
+      "startTime": "13:30",
+      "endTime": "14:45",
+      "fieldNum": 13,
+      "homeScore": 9,
+      "awayScore": 6
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 18,
+      "awayTeam": 20,
+      "startTime": "13:30",
+      "endTime": "14:45",
+      "fieldNum": 14,
+      "homeScore": 13,
+      "awayScore": 7
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 19,
+      "awayTeam": -1,
+      "startTime": "13:30",
+      "endTime": "14:45",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 16,
+      "awayTeam": 18,
+      "startTime": "15:00",
+      "endTime": "16:15",
+      "fieldNum": 13,
+      "homeScore": 9,
+      "awayScore": 13
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 17,
+      "awayTeam": 19,
+      "startTime": "15:00",
+      "endTime": "16:15",
+      "fieldNum": 14,
+      "homeScore": 13,
+      "awayScore": 12
+    },
+    {
+      "tourneyId": 1,
+      "homeTeam": 20,
+      "awayTeam": -1,
+      "startTime": "15:00",
+      "endTime": "16:15",
+      "fieldNum": 0,
+      "homeScore": 0,
+      "awayScore": 0
     }
   ],
   "tourneyTeam": [
@@ -157,7 +672,6 @@
       "name": "Binghampton",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": true,
       "signedWaiver": true,
       "needW9": false,
@@ -168,7 +682,6 @@
       "name": "Canisius",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": false,
       "signedWaiver": false,
       "needW9": true,
@@ -179,7 +692,6 @@
       "name": "Hamilton Y",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": false,
       "signedWaiver": false,
       "needW9": true,
@@ -190,7 +702,6 @@
       "name": "Oberlin X",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": true,
       "signedWaiver": true,
       "needW9": false,
@@ -201,7 +712,6 @@
       "name": "Colgate",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": true,
       "signedWaiver": true,
       "needW9": false,
@@ -212,7 +722,6 @@
       "name": "Cornell X",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": true,
       "signedWaiver": true,
       "needW9": false,
@@ -223,7 +732,6 @@
       "name": "Ithaca",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": false,
       "signedWaiver": false,
       "needW9": true,
@@ -234,7 +742,6 @@
       "name": "RIT",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": false,
       "signedWaiver": false,
       "needW9": true,
@@ -245,7 +752,6 @@
       "name": "Lorax",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": true,
       "signedWaiver": true,
       "needW9": false,
@@ -256,7 +762,6 @@
       "name": "Lorax Alumni",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": true,
       "signedWaiver": true,
       "needW9": false,
@@ -267,7 +772,6 @@
       "name": "Geneseo",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": true,
       "signedWaiver": true,
       "needW9": false,
@@ -278,7 +782,6 @@
       "name": "Hamilton X",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": false,
       "signedWaiver": false,
       "needW9": true,
@@ -289,7 +792,6 @@
       "name": "Cortland",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": false,
       "signedWaiver": false,
       "needW9": true,
@@ -300,7 +802,6 @@
       "name": "Oneonta",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": true,
       "signedWaiver": true,
       "needW9": false,
@@ -311,7 +812,6 @@
       "name": "Cornell Y",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": true,
       "signedWaiver": true,
       "needW9": false,
@@ -322,7 +822,6 @@
       "name": "U of R",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": true,
       "signedWaiver": true,
       "needW9": false,
@@ -333,7 +832,6 @@
       "name": "Oberlin Y",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": false,
       "signedWaiver": false,
       "needW9": true,
@@ -344,7 +842,6 @@
       "name": "Brockport",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": false,
       "signedWaiver": false,
       "needW9": true,
@@ -355,7 +852,6 @@
       "name": "Carnegie Melon",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": true,
       "signedWaiver": true,
       "needW9": false,
@@ -366,7 +862,6 @@
       "name": "Fredonia",
       "tourneyId": 1,
       "img": null,
-      "seed": null,
       "paidBid": true,
       "signedWaiver": true,
       "needW9": false,
@@ -473,6 +968,48 @@
       "tourneyId": 1,
       "poolName": "T",
       "teamId": 20
+    }
+  ],
+  "tournaments": [
+    {
+      "id": 1,
+      "name": "TSGMUT 17",
+      "address": "2 Scott Ave Youngstown, NY 14174",
+      "state": "NY",
+      "map": null,
+      "division": "college",
+      "startDate": "9/30/17",
+      "endDate": "10/1/17"
+    },
+    {
+      "id": 2,
+      "name": "Danse Macabre 17",
+      "address": "1 Lomb Memorial Dr, Rochester, NY 14623",
+      "state": "NY",
+      "map": null,
+      "division": "college",
+      "startDate": "10/27/17",
+      "endDate": "10/28/17"
+    },
+    {
+      "id": 3,
+      "name": "Poultry Days",
+      "address": "800 Woodland Drive Versailles OH 45380",
+      "state": "OH",
+      "map": null,
+      "division": "club",
+      "startDate": "6/15/19",
+      "endDate": "6/16/19"
+    },
+    {
+      "id": 4,
+      "name": "Lei Out",
+      "address": "Huntington Beach, CA",
+      "state": "CA",
+      "map": null,
+      "division": "beach",
+      "startDate": "1/19/19",
+      "endDate": "1/20/19"
     }
   ]
 }
