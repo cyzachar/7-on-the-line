@@ -1,14 +1,44 @@
 {
-  "users": [
+  "tournaments": [
     {
       "id": 1,
-      "username": "hjones",
-      "password": "hj123"
+      "name": "TSGMUT 17",
+      "address": "2 Scott Ave Youngstown, NY 14174",
+      "state": "NY",
+      "map": null,
+      "division": "college",
+      "startDate": "9/30/17",
+      "endDate": "10/1/17"
     },
     {
       "id": 2,
-      "username": "mpierce",
-      "password": "mp123"
+      "name": "Danse Macabre 17",
+      "address": "1 Lomb Memorial Dr, Rochester, NY 14623",
+      "state": "NY",
+      "map": null,
+      "division": "college",
+      "startDate": "10/27/17",
+      "endDate": "10/28/17"
+    },
+    {
+      "id": 3,
+      "name": "Poultry Days",
+      "address": "800 Woodland Drive Versailles OH 45380",
+      "state": "OH",
+      "map": null,
+      "division": "club",
+      "startDate": "6/15/19",
+      "endDate": "6/16/19"
+    },
+    {
+      "id": 4,
+      "name": "Lei Out",
+      "address": "Huntington Beach, CA",
+      "state": "CA",
+      "map": null,
+      "division": "beach",
+      "startDate": "1/19/19",
+      "endDate": "1/20/19"
     }
   ],
   "userFollowedTourneys": [
