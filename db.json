@@ -66,13 +66,13 @@
     {
       "userId": 1,
       "tourneyId": 1,
-      "teamFollowId": 2,
+      "teamFollowId": 8,
       "isTeamManager": true
     },
     {
       "userId": 1,
       "tourneyId": 1,
-      "teamFollowId": 5,
+      "teamFollowId": 20,
       "isTeamManager": false
     }
   ],
