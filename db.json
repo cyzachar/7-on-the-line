@@ -28,7 +28,9 @@
       "map": null,
       "division": "college",
       "startDate": "9/30/17",
-      "endDate": "10/1/17"
+      "endDate": "10/1/17",
+      "hasPool": true,
+      "hasBracket": true
     },
     {
       "id": 2,
@@ -38,7 +40,9 @@
       "map": null,
       "division": "college",
       "startDate": "10/27/17",
-      "endDate": "10/28/17"
+      "endDate": "10/28/17",
+      "hasPool": true,
+      "hasBracket": true
     },
     {
       "id": 3,
@@ -48,7 +52,9 @@
       "map": null,
       "division": "club",
       "startDate": "6/15/19",
-      "endDate": "6/16/19"
+      "endDate": "6/16/19",
+      "hasPool": true,
+      "hasBracket": true
     },
     {
       "id": 4,
@@ -58,7 +64,9 @@
       "map": null,
       "division": "beach",
       "startDate": "1/19/19",
-      "endDate": "1/20/19"
+      "endDate": "1/20/19",
+      "hasPool": true,
+      "hasBracket": true
     }
   ],
   "userFollowedTourneys": [
