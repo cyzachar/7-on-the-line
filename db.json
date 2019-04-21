@@ -9,6 +9,11 @@
       "id": 2,
       "username": "mpierce",
       "password": "mp123"
+    },
+    {
+      "id": 3,
+      "username": "dbCheck",
+      "password": "test"
     }
   ],
   "teamContact": [
