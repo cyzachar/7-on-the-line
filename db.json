@@ -1180,16 +1180,6 @@
       "signedWaiver": true,
       "needW9": false,
       "needInvoice": false
-    },
-    {
-      "id": 40,
-      "name": "Fredonia",
-      "tourneyId": 3,
-      "img": null,
-      "paidBid": true,
-      "signedWaiver": true,
-      "needW9": false,
-      "needInvoice": false
     }
   ],
   "poolTeams": [
@@ -1292,106 +1282,6 @@
       "tourneyId": 2,
       "poolName": "T",
       "teamId": 20
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "A",
-      "teamId": 21
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "A",
-      "teamId": 22
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "A",
-      "teamId": 23
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "A",
-      "teamId": 24
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "A",
-      "teamId": 25
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "B",
-      "teamId": 26
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "B",
-      "teamId": 27
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "B",
-      "teamId": 28
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "B",
-      "teamId": 29
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "B",
-      "teamId": 30
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "C",
-      "teamId": 31
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "C",
-      "teamId": 32
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "C",
-      "teamId": 33
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "C",
-      "teamId": 34
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "C",
-      "teamId": 35
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "D",
-      "teamId": 36
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "D",
-      "teamId": 37
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "D",
-      "teamId": 38
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "D",
-      "teamId": 39
-    },
-    {
-      "tourneyId": 3,
-      "poolName": "D",
-      "teamId": 40
     }
   ]
 }
