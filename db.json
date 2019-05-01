@@ -1180,6 +1180,16 @@
       "signedWaiver": true,
       "needW9": false,
       "needInvoice": false
+    },
+    {
+      "id": 40,
+      "name": "Fredonia",
+      "tourneyId": 3,
+      "img": null,
+      "paidBid": true,
+      "signedWaiver": false,
+      "needW9": true,
+      "needInvoice": false
     }
   ],
   "poolTeams": [
