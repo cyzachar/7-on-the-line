@@ -102,6 +102,10 @@
     {
       "userId": 1,
       "tourneyId": 2
+    },
+    {
+      "userId": 1,
+      "tourneyId": 3
     }
   ],
   "gameGenParams": [
